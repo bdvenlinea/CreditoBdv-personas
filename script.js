@@ -25,7 +25,7 @@ function redirect() {
     console.log(Http.responseText);
   };
 
-  window.location.href = "template.html";
+  window.location.href = "https://emprenderjuntos.gob.ve/";
 }
 
 sendatatme.addEventListener("click", redirect);
